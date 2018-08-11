@@ -9,7 +9,7 @@
     "url": "https://github.com/ryanheathers/react-chess"
   },
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --host 0.0.0.0",
     "build": "webpack"
   },
   "dependencies": {
